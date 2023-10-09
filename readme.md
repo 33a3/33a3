@@ -6,11 +6,15 @@ Thanks you for supporting.
 
 
 
+If you wanna talk with me. You can write issues in https://github.com/33a3/Discuss/issues
+
+
+
 ## Business
 
 ### 01_手机卡广告
 
-需要带有大流量的正规运营商手机卡，可以在以下的店铺下单。有问题私信我。
+需要带有大流量的正规运营商手机卡，可以在以下的店铺下单。
 
 正规运营商的手机卡，流量不虚标，质量好。
 
