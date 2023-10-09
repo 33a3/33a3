@@ -1,12 +1,12 @@
 ## Intro
 
-Hi, I am 33a3. comes from China. I am happy for meeting you by this way.
+Hi, I am 33a3, come from China. I am happy for meeting you by this way.
 
-Thanks you for supporting.
+Thanks for your supporting.
 
 
 
-If you wanna talk with me. You can write issues in https://github.com/33a3/Discuss/issues
+If you wanna talk with me, you can write issues in https://github.com/33a3/Discuss/issues
 
 
 
